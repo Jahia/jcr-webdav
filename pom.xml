@@ -81,7 +81,7 @@
         <relativePath />
     </parent>
     <artifactId>jcr-webdav</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>JCR WebDAV</name>
     <description>Digital Factory module that exposes JCR content using WebDAV protocol</description>
@@ -90,7 +90,7 @@
         <connection>scm:git:git@github.com:Jahia/jcr-webdav.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/jcr-webdav.git</developerConnection>
         <url>scm:git:git@github.com:Jahia/jcr-webdav.git</url>
-      <tag>1_0_0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
