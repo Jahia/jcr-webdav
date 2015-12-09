@@ -84,7 +84,7 @@
     <version>1.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>JCR WebDAV</name>
-    <description>Digital Factory module that exposes JCR content using WebDAV protocol</description>
+    <description>Digital Experience Manager module that exposes JCR content using WebDAV protocol</description>
     
     <scm>
         <connection>scm:git:git@github.com:Jahia/jcr-webdav.git</connection>
