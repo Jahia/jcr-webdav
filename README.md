@@ -1,4 +1,4 @@
-Digital Factory - JCR WebDAV
+Digital Experience Manager - JCR WebDAV
 ===============
 
-A custom module for the Digital Factory platform that exposes the content repository via WebDAV protocol.
+A custom module for the Digital Experience Manager platform that exposes the content repository via WebDAV protocol.

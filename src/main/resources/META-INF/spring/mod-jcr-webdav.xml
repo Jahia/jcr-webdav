@@ -22,7 +22,7 @@
                     <!--
                     Defines the value of the 'WWW-Authenticate' header.
                     -->
-                    <value>Basic realm="Digital Factory WebDAV Server"</value>
+                    <value>Basic realm="Digital Experience Manager WebDAV Server"</value>
                 </entry>
                 <entry key="resource-config">
                     <!--
