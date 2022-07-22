@@ -52,7 +52,7 @@
         <version>8.1.0.0</version>
     </parent>
     <artifactId>jcr-webdav</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>JCR WebDAV</name>
     <description>Digital Experience Manager module that exposes JCR content using WebDAV protocol</description>
@@ -61,7 +61,7 @@
         <connection>scm:git:git@github.com:Jahia/jcr-webdav.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/jcr-webdav.git</developerConnection>
         <url>scm:git:git@github.com:Jahia/jcr-webdav.git</url>
-        <tag>2_0_0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
